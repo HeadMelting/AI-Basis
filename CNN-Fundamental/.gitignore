@@ -1,0 +1,4 @@
+data/*
+MNIST/data/*
+checkpoint/*
+torch/data/*
